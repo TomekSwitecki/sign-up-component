@@ -44,7 +44,7 @@ function Show_error(input,color)
 
         $(input+"-error-icon").css("visibility", "visible");
         $(input+"-error-text").css("visibility", "visible");
-        $(input).css('border-color', color);
+        $(input+"-input").css('border-color', color);
 }
 
 function Hide_error(input,color)
@@ -52,7 +52,7 @@ function Hide_error(input,color)
 
         $(input+"-error-icon").css("visibility", "hidden");
         $(input+"-error-text").css("visibility", "hidden");
-        $(input).css('border-color', color);
+        $(input+"-input").css('border-color', color);
 }
 
 
