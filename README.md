@@ -2,7 +2,7 @@
 
 > This is a solution to the [Article preview component challenge](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT).
 
-![screenshot](./design/screenshoot.png)
+![screenshot](./design/screenshot.png)
 
 I created it to improve my frontend skills 😃
 
